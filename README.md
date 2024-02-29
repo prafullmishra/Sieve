@@ -9,4 +9,4 @@ Sieve allows to filter notifications from Teams app on the basis of sender name,
 
 
 Code written in hassle, please avoid any bad patterns/practices followed in this project :D 
-Cheers!
+<br><br>Cheers! 🍻
